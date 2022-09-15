@@ -2,7 +2,7 @@ using System;
 
 namespace PracticaVeterinaria.App.Dominio
 {
- public class Veterinario : Persona
+ public class Veterinario : Propietario
  {
  [KEY]
     public int idVeterinario {get;set;}
