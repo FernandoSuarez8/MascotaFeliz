@@ -49,8 +49,8 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
             {
                 propietarioActualizar.id = propietario.id;
                 propietarioActualizar.nombre = propietario.nombre;
+                propietarioActualizar.apellido = propietario.apellido;
                 propietarioActualizar.telefono = propietario.telefono;
-                propietarioActualizar.cedula = propietario.cedula;
                 propietarioActualizar.direccion = propietario.direccion;
                 propietarioActualizar.correo = propietario.correo;
                 _appContext.SaveChanges();
