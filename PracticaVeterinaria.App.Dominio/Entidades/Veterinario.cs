@@ -6,7 +6,7 @@ namespace PracticaVeterinaria.App.Dominio
  {
  [KEY]
     public int idVeterinario {get;set;}
-    [FOREIGN KEY]
+    [FOREIGN_KEY]
     public int idMascota {get;set;}
     public string Nombre {get;set;}
     public string Apellido {get;set;}
