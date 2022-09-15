@@ -54,7 +54,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
                 mascota.id = mascotaEncontrada.id;
                 mascota.color= mascotaEncontrada.color;
-                mascota.edad= mascotaEncontrada.edad;
+                mascota.estadoAnimo= mascotaEncontrada.estadoAnimo;
                 mascota.especie = mascotaEncontrada.especie;
                 mascota.estadoSalud = mascotaEncontrada.estadoSalud;
                 mascota.nombre= mascotaEncontrada.nombre;
