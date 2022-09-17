@@ -6,8 +6,8 @@ namespace PracticaVeterinaria.App.Dominio
     {
         [KEY]
         public int idPropietario {get;set;}
-        public string Nombre { get; set; }
-        public string Apellido {get;set;}
+        public string nombre { get; set; }
+        public string apellido {get;set;}
         public string direccion { get; set; }
         public int telefono {get;set;}
         public string correoElectronico { get; set; }

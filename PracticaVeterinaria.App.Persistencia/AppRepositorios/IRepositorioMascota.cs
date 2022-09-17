@@ -2,7 +2,7 @@ using System;
 using PracticaVeterinaria.App.Dominio;
 using PracticaVeterinaria.App.Persistencia;
 
-//colecciones de datos, manejdar de manera flexible las consultas en BD
+//colecciones de datos, manejar de manera flexible las consultas en BD
 using System.Collections.Generic;
 //LINQ 
 using System.Linq;

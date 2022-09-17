@@ -8,10 +8,10 @@ namespace PracticaVeterinaria.App.Dominio
     public int idVeterinario {get;set;}
     [FOREIGN_KEY(idMascota)]
     public int idMascota {get;set;}
-    public string Nombre {get;set;}
-    public string Apellido {get;set;}
-    public string Direccion {get;set;}
-    public int Telefono {get;set;}
+    public string nombre {get;set;}
+    public string apellido {get;set;}
+    public string direccion {get;set;}
+    public int telefono {get;set;}
     public string tarjetaProfesional {get; set;}
  }
 }
