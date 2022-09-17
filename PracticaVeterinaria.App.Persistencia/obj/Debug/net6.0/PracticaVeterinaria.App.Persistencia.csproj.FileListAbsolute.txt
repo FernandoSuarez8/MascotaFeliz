@@ -1,0 +1,17 @@
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.AssemblyReference.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfoInputs.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfo.cs
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.deps.json
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.runtimeconfig.json
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Dominio.dll
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Dominio.pdb
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.CopyComplete
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.genruntimeconfig.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Persistencia.dll

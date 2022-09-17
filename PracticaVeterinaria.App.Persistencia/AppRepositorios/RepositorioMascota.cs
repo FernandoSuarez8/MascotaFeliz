@@ -54,13 +54,10 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
                 mascota.id = mascotaEncontrada.id;
                 mascota.color= mascotaEncontrada.color;
-                mascota.estadoAnimo= mascotaEncontrada.estadoAnimo;
                 mascota.especie = mascotaEncontrada.especie;
-                mascota.estadoSalud = mascotaEncontrada.estadoSalud;
                 mascota.nombre= mascotaEncontrada.nombre;
                 mascota.raza = mascotaEncontrada.raza;
                 mascota.propietario = mascotaEncontrada.propietario;
-                mascota.veterinario = mascotaEncontrada.veterinario;
                 _appContext.SaveChanges();
             }
             return mascota;

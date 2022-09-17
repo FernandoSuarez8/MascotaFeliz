@@ -9,6 +9,8 @@ namespace PracticaVeterinaria.App.Dominio
         public string color { get; set; }
         public string especie { get; set; }
         public string raza { get; set; }
+        public Propietario propietario {get; set;}
+        
         
 
 

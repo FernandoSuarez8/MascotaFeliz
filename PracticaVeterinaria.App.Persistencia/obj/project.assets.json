@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1766,7 +1766,7 @@
       },
       "PracticaVeterinaria.App.Dominio/1.0.0": {
         "type": "project",
-        "framework": "Unsupported,Version=v0.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/PracticaVeterinaria.App.Dominio.dll": {}
         },
@@ -6005,7 +6005,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
@@ -6019,24 +6019,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.app.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+      "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
       "projectName": "PracticaVeterinaria.App.Persistencia",
-      "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.app.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+      "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
-      "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.app.Persistencia\\obj\\",
+      "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
               "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
@@ -6051,8 +6051,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -6094,16 +6094,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "El proyecto PracticaVeterinaria.App.Dominio no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El proyecto PracticaVeterinaria.App.Dominio admite: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "PracticaVeterinaria.App.Dominio",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

@@ -2,15 +2,15 @@ using System;
 
 namespace PracticaVeterinaria.App.Dominio
 {
-    public class Propietario : Mascota
+    public class Propietario 
     {
-        [KEY]
-        public int idPropietario {get;set;}
+       
+        public int id {get;set;}
         public string nombre { get; set; }
         public string apellido {get;set;}
         public string direccion { get; set; }
         public int telefono {get;set;}
-        public string correoElectronico { get; set; }
+        public string correo { get; set; }
    
 
     }
