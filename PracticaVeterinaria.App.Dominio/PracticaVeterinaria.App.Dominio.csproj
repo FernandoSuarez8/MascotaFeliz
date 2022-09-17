@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework><net6 class="0 8"></net6></TargetFramework>
+    <TargetFramework><net6.0.400></net6></TargetFramework>
   </PropertyGroup>
 
 </Project>
