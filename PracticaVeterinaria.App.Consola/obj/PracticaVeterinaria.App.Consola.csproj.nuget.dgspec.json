@@ -1,48 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {}
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {}
   },
   "projects": {
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
+        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
         "projectName": "PracticaVeterinaria.App.Consola",
-        "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\Asus 1\\.nuget\\packages\\",
-        "outputPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Consola\\obj\\",
+        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
+        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
-                "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
+              "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
+                "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
               },
-              "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj": {
-                "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj"
+              "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj": {
+                "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj"
               }
             }
           }
         },
         "warningProperties": {
           "warnAsError": [
-            "NU1606"
+            "NU1605"
           ]
         }
       },
@@ -54,7 +49,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.9, )"
             }
           },
           "imports": [
@@ -63,7 +58,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,31 +68,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
+        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
         "projectName": "PracticaVeterinaria.App.Dominio",
-        "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Asus 1\\.nuget\\packages\\",
-        "outputPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\obj\\",
+        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
+        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -107,7 +98,7 @@
         },
         "warningProperties": {
           "warnAsError": [
-            "NU1606"
+            "NU1605"
           ]
         }
       },
@@ -120,7 +111,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -129,46 +121,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj": {
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
         "projectName": "PracticaVeterinaria.App.Persistencia",
-        "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Asus 1\\.nuget\\packages\\",
-        "outputPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Persistencia\\obj\\",
+        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
+        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
-                "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
+              "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
+                "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
               }
             }
           }
         },
         "warningProperties": {
           "warnAsError": [
-            "NU1606"
+            "NU1605"
           ]
         }
       },
@@ -178,23 +165,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -203,7 +190,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -212,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

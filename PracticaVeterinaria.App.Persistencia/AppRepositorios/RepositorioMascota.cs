@@ -2,7 +2,7 @@ using System;
 using PracticaVeterinaria.App.Dominio;
 using PracticaVeterinaria.App.Persistencia;
 
-//colecciones de datos, manejdar de manera flexible las consultas en BD
+//colecciones de datos, manejar de manera flexible las consultas en BD
 using System.Collections.Generic;
 //LINQ 
 using System.Linq;
@@ -54,13 +54,10 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
                 mascota.id = mascotaEncontrada.id;
                 mascota.color= mascotaEncontrada.color;
-                mascota.edad= mascotaEncontrada.edad;
                 mascota.especie = mascotaEncontrada.especie;
-                mascota.estadoSalud = mascotaEncontrada.estadoSalud;
                 mascota.nombre= mascotaEncontrada.nombre;
                 mascota.raza = mascotaEncontrada.raza;
                 mascota.propietario = mascotaEncontrada.propietario;
-                mascota.veterinario = mascotaEncontrada.veterinario;
                 _appContext.SaveChanges();
             }
             return mascota;

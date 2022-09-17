@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1766,7 +1766,11 @@
       },
       "PracticaVeterinaria.App.Dominio/1.0.0": {
         "type": "project",
+<<<<<<< HEAD
         "framework": "Unsupported,Version=v0.0",
+=======
+        "framework": ".NETCoreApp,Version=v6.0",
+>>>>>>> 63cd7cb7917435766d76db4789a1fc1059abab4a
         "compile": {
           "bin/placeholder/PracticaVeterinaria.App.Dominio.dll": {}
         },
@@ -6005,7 +6009,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
@@ -6029,14 +6033,14 @@
         "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
               "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
@@ -6051,8 +6055,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
