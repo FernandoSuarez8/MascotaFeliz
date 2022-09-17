@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbtJfkEuooZgYK/hHM8k2Kx2p1ExbVK53Dgj8FszCsFxfDHMKG9Da/gqDX/0YnqgHoIfs5YhTo2ZSutBkcvmQg==",
-  "success": false,
-  "projectFilePath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.app.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+  "dgSpecHash": "Jlbwc9fOd5I0OBiSy5FOc2XptbkNihYYHM8kRh17v33mgPR0354W1KtrH88Ls67dsPZK6rjrwTXsRT7BVqBpxQ==",
+  "success": true,
+  "projectFilePath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dasua\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dasua\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -102,15 +102,5 @@
     "C:\\Users\\dasua\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\dasua\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "El proyecto PracticaVeterinaria.App.Dominio no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El proyecto PracticaVeterinaria.App.Dominio admite: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "PracticaVeterinaria.App.Dominio",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
