@@ -5,12 +5,12 @@ namespace PracticaVeterinaria.App.Persistencia
 {
     public class AppContext : DbContext
     {
-        public DbSet<Propietario> propietarios {get; set;}
-        public DbSet<Veterinario> veterinarios {get; set;}
-        public DbSet<Mascota> mascotas {get; set;}
-        public DbSet<Visita> visitas {get; set;}
+        public DbSet<Propietario> propietarios { get; set; }
+        public DbSet<Veterinario> veterinarios { get; set; }
+        public DbSet<Mascota> mascotas { get; set; }
+        public DbSet<Visita> visitas { get; set; }
 
-        
+
 
         // implementar todas las clases
 
