@@ -1,0 +1,6 @@
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.csproj.AssemblyReference.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.AssemblyInfoInputs.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.AssemblyInfo.cs
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.csproj.CoreCompileInputs.cache
+E:\PracticaVeterinaria_Ciclo3-master\PracticaVeterinaria.App.Servicios\obj\Debug\net6.0\PracticaVeterinaria.App.Servicios.MvcApplicationPartsAssemblyInfo.cache

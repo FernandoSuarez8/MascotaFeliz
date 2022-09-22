@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+
 namespace PracticaVeterinaria.App.Presentacion
 {
     public class Startup
@@ -27,7 +28,7 @@ namespace PracticaVeterinaria.App.Presentacion
             services.AddRazorPages();
 
             //Asociamos los repositorios a la capa de presentación para el uso del servicio DbContext.        
-            services.AddScoped<IRepositorioPropietario, RepositorioPorpietario>();
+            services.AddScoped<IRepositorioPropietario, RepositorioPropietario>();
             //AppContext
             services.AddSingleton<PracticaVeterinaria.App.Persistencia.AppRepositorios.AppContext>();
         }
