@@ -28,7 +28,7 @@ namespace PracticaVeterinaria.App.Presentacion
             services.AddRazorPages();
 
             //Asociamos los repositorios a la capa de presentación para el uso del servicio DbContext.        
-            //services.AddScoped<IRepositorioHistoriaClinica, RepositorioHistoriaClinica>();
+            services.AddScoped<IRepositorioHistoriaClinica, RepositorioHistoriaClinica>();
             //services.AddScoped<IRepositorioMascota, RepositorioMascota>();
             services.AddScoped<IRepositorioPropietario, RepositorioPropietario>();
             //services.AddScoped<IRepositorioVeterinario, RepositorioVeterinario>();
