@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PracticaVeterinaria.App.Dominio;
 
-namespace PracticaVeterinaria.App.Persistencia
+namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 {
     public class AppContext : DbContext
     {

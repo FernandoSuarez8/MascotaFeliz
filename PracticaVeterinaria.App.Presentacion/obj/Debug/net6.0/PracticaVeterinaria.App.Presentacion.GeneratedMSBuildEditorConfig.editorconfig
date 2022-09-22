@@ -23,6 +23,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/PracticaVeterinaria_Ciclo3-master/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PracticaVeterinaria_Ciclo3-master/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PracticaVeterinaria_Ciclo3-master/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PracticaVeterinaria_Ciclo3-master/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/Lis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cTGlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/PracticaVeterinaria_Ciclo3-master/PracticaVeterinaria.App.Presentacion/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
