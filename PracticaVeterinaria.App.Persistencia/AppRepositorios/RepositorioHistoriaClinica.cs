@@ -7,12 +7,8 @@ using System.Linq;
 
 namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 {
-    public class RepositorioHistoria_Clinica : IRepositorioHistoria_CLinica
-    {
-        private readonly AppContext _appContext;
-
-
-    }
+    
+    
 
 
 }
