@@ -8,12 +8,12 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioHistoriaClinica
     {
-        HistoriaClinica AddHistoriaCLinica(HistoriaClinica historiaclinica);
+        HistoriaClinica AddHistoriaClinica(HistoriaClinica historiaClinica);
         void DeleteHistoriaClinica(int idHistoriaClinica);
 
         HistoriaClinica GetHistoriaClinica(int idHistoriaClinica);
 
-        HistoriaClinica UpdateHistoriaClinica(HistoriaClinica historiaclinica);
+        HistoriaClinica UpdateHistoriaClinica(HistoriaClinica historiaClinica);
 
         IEnumerable<HistoriaClinica> GetAllHistoriaClinica();
 
