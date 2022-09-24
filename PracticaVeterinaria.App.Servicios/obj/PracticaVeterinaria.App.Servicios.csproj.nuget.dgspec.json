@@ -1,35 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj": {}
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj": {}
   },
   "projects": {
-    "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj": {
+    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj",
+        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj",
         "projectName": "PracticaVeterinaria.App.Servicios",
-        "projectPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj",
-        "packagesPath": "C:\\Users\\Asus 1\\.nuget\\packages\\",
-        "outputPath": "D:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\obj\\",
+        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj",
+        "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
+        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Servicios\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -68,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {}
+    "E:\\PracticaVeterinaria_Ciclo3-master\\Practicaveterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {}
   },
   "projects": {
-    "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {
+    "E:\\PracticaVeterinaria_Ciclo3-master\\Practicaveterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
+        "projectUniqueName": "E:\\PracticaVeterinaria_Ciclo3-master\\Practicaveterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
         "projectName": "PracticaVeterinaria.App.Consola",
-        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
+        "projectPath": "E:\\PracticaVeterinaria_Ciclo3-master\\Practicaveterinaria.App.Consola\\PracticaVeterinaria.App.Consola.csproj",
         "packagesPath": "C:\\Users\\dasua\\.nuget\\packages\\",
-        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\PracticaVeterinaria.App.Consola\\obj\\",
+        "outputPath": "E:\\PracticaVeterinaria_Ciclo3-master\\Practicaveterinaria.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dasua\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -165,23 +165,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.9, )"
             }
           },
           "imports": [
