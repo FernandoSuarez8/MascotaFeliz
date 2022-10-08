@@ -44,7 +44,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
         }
         Propietario IRepositorioPropietario.UpdatePropietario(Propietario propietario)
         {
-            var propietarioActualizar = _appContext.propietarios.SingleOrDefault(r => r.id == propietario.id);
+            var propietarioActualizar = _appContext.propietarios.SingleOrDefault(p => p.id == propietario.id);
             if (propietarioActualizar != null)
             {
                 propietarioActualizar.id = propietario.id;
@@ -60,7 +60,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
         void IRepositorioPropietario.DeletePropietario(int idPropietario)
         {
-            var propietarioEncontrado = _appContext.propietarios.FirstOrDefault(c => c.id == idPropietario);
+            var propietarioEncontrado = _appContext.propietarios.FirstOrDefault(p => p.id == idPropietario);
             if (propietarioEncontrado == null)
             {
                 return;
@@ -79,7 +79,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
         Propietario IRepositorioPropietario.GetPropietario(int idPropietario)
         {
-            return _appContext.propietarios.FirstOrDefault(c => c.id == idPropietario);
+            return _appContext.propietarios.FirstOrDefault(p => p.id == idPropietario);
         }
 
     }

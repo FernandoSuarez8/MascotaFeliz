@@ -42,7 +42,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
         }
         void IRepositorioVeterinario.DeleteVeterinario(int idVeterinario)
         {
-            var veterinarioEncontrado = _appContext.veterinarios.FirstOrDefault(ve => ve.id == idVeterinario);
+            var veterinarioEncontrado = _appContext.veterinarios.FirstOrDefault(v => v.id == idVeterinario);
             if (veterinarioEncontrado == null)
             {
                 return;
@@ -53,7 +53,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
         Veterinario IRepositorioVeterinario.GetVeterinario(int idVeterinario)
         {
-            return _appContext.veterinarios.FirstOrDefault(h => h.id == idVeterinario);
+            return _appContext.veterinarios.FirstOrDefault(v => v.id == idVeterinario);
         }
 
         IEnumerable <Veterinario> IRepositorioVeterinario.GetAllVeterinarios()

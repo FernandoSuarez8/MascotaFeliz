@@ -47,7 +47,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
         }
         void IRepositorioVisita.DeleteVisita(int idVisita)
         {
-            var visitaEncontrada = _appContext.visitas.FirstOrDefault(ve => ve.id == idVisita);
+            var visitaEncontrada = _appContext.visitas.FirstOrDefault(vi => vi.id == idVisita);
             if (visitaEncontrada == null)
             {
                 return;
@@ -63,7 +63,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
         Visita IRepositorioVisita.GetVisita(int idVisita)
         {
-            return _appContext.visitas.FirstOrDefault(h => h.id == idVisita);
+            return _appContext.visitas.FirstOrDefault(vi => vi.id == idVisita);
         }
 
       
